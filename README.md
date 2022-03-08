@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This page is Jack's profile.
+
 <!--
 **JackLee9437/JackLee9437** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
