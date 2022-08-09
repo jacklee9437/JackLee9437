@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ![Jack's GitHub stats](https://github-readme-stats.vercel.app/api?username=JackLee9437&show_icons=true&theme=great-gatsby)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JackLee9437&layout=compact&theme=great-gatsby&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
-<!--[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=iacog)](https://solved.ac/iacog)-->
+[![Solved.ac 프로필](https://mazassumnida.wtf/api/v2/generate_badge?boj=iacog)](https://solved.ac/iacog)
